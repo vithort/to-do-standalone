@@ -37,3 +37,17 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ```js
 ng add @angular/material
 ```
+
+# Generate Components
+
+```js
+ng g c to-do-form
+```
+
+```js
+ng g c to-do-card
+```
+
+```js
+ng g c card
+```

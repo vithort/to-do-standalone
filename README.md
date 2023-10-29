@@ -41,13 +41,19 @@ ng add @angular/material
 # Generate Components
 
 ```js
-ng g c to-do-form
+ng g c components/to-do-form
 ```
 
 ```js
-ng g c to-do-card
+ng g c components/to-do-card
 ```
 
 ```js
-ng g c card
+ng g c components/header
+```
+
+# Generate Service
+
+```js
+ng g service services/to-do-signals
 ```
